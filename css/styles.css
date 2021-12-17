@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+#area_logo img {
+    width: 1380px;   
+}
+
+.videos {
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+
+ }
+ #link{
+    padding: 160px;
+    font-family: 'cookie';
+    top: 50px ;
+    position: absolute;
+    margin-left: 390px;
+}
+#link a:link, a:visited{
+    text-decoration: none;
+    color: black;
+    margin-left: 100px;
+}
+#link a{
+    padding: 8px 12px;
+    font-size: 35px;
+}
+h1,h2 {
+    font-family: 'cookie';
+
+}
+.texto-vibes {
+ width: 60%;
+padding: 20px;
+border-radius: 10px;
+margin: 30px;
+font-size: 20px;
+text-align: justify;
+font-family: 'EB Garamond';
+background-color:#99D4E3;
+}
+.cabecalho {
+        width: 500px;
+        background-color: #B0DBE6;
+        border-radius: 10px;
+        margin-top: 100px;
+        margin-left: 40px;
+        display: flex;
+
+}
+.container {
+display: flex;
+}
+
+.videos iframe{
+    margin-bottom: 20px;
+}
+.dicasvibes {
+    width: 60%;
+padding: 8px;
+border-radius: 10px;
+margin-left: 300px;
+font-size: 20px;
+text-align: justify;
+font-family: 'EB Garamond';
+background-color:#DCA2ED;
+margin-top: 90px;
+}
+.imagem  {
+    margin-left: 280px;
+    margin-top: 20px;
+}
+.imagem img {
+    width: 900px;
+    border-radius: 10px;   
+}
+.imagens {
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.film {
+    margin-left: 450px;
+    margin-top: 25px; 
+}
+iframe {border:10px solid #6DD8E6;
+    border-radius: 20px !important; 
+}
+#area_rodape{
+    background-color: #977CCD;
+    color: #f2f2f2;
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    width: 100%;
+    }
